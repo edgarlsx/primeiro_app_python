@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>912d15a0-51ad-4dd3-87bf-e9d6865a3f9e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PrimeiroAppPython.py</StartupFile>
+    <StartupFile>aula2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="aula2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PrimeiroAppPython.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
