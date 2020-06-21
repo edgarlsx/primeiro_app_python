@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>912d15a0-51ad-4dd3-87bf-e9d6865a3f9e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Aula4.py</StartupFile>
+    <StartupFile>Aula5.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +28,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Aula4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Aula5.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PrimeiroAppPython.py" />
