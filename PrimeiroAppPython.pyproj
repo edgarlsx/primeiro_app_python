@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>912d15a0-51ad-4dd3-87bf-e9d6865a3f9e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Aula7.py</StartupFile>
+    <StartupFile>Aula8.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -37,6 +37,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Aula7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Aula8.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Aula8ContaLetras.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PrimeiroAppPython.py" />
