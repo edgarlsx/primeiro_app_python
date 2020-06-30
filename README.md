@@ -1,2 +1,6 @@
 # primeiro_app_python
-Primeiro app python
+Curso de Python Pela Digital Inovation One.
+
+Modulo do curso de Fullstack 
+
+- Patrocinado pelo banco Carrefour
